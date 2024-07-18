@@ -1,1 +1,1 @@
-"Hello Odin! TEst"
+"Hello Odin! This is my first time trying the git add and push"
