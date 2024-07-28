@@ -1,1 +1,1 @@
-"Hello Odin! This is my first time trying the git add and push"
+"Hello Odin! I am just refreshing my mind if I still know how to git, add and commit"
